@@ -1,0 +1,14 @@
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\bin\Debug\net10.0\Nmber Guessing Game.exe
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\bin\Debug\net10.0\Nmber Guessing Game.deps.json
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\bin\Debug\net10.0\Nmber Guessing Game.runtimeconfig.json
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\bin\Debug\net10.0\Nmber Guessing Game.dll
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\bin\Debug\net10.0\Nmber Guessing Game.pdb
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\Nmber Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\Nmber Guessing Game.AssemblyInfoInputs.cache
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\Nmber Guessing Game.AssemblyInfo.cs
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\Nmber Guessing Game.csproj.CoreCompileInputs.cache
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\Nmber Guessing Game.dll
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\refint\Nmber Guessing Game.dll
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\Nmber Guessing Game.pdb
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\Nmber Guessing Game.genruntimeconfig.cache
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\ref\Nmber Guessing Game.dll
