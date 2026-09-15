@@ -12,3 +12,4 @@ G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\refint\Nmber G
 G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\Nmber Guessing Game.pdb
 G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\Nmber Guessing Game.genruntimeconfig.cache
 G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\ref\Nmber Guessing Game.dll
+G:\Documents\PROGRAMMING\C#\Nmber Guessing Game\obj\Debug\net10.0\Nmber Guessing Game.sourcelink.json
